@@ -1,0 +1,18 @@
+{
+    "enabled_groups": {
+        "description": "启用邀请统计功能的群组ID列表",
+        "type": "list",
+        "hint": "启用邀请统计功能的群组将记录邀请数据"
+    },
+    "broadcast_enabled_groups": {
+        "description": "启用广播功能的群组ID列表",
+        "type": "list",
+        "hint": "启用广播功能的群组将接收广播消息"
+    },
+    "invitation_data": {
+        "description": "存储邀请数据的结构",
+        "type": "object",
+        "default": {},
+        "invisible": true
+    }
+}

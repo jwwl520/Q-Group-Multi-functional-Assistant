@@ -1,0 +1,5 @@
+name: astrbot_plugin_integrated
+desc: "一个集成了邀请统计和分群广播的综合插件"
+version: v1.0.0
+author: YourName
+repo: https://your.repo.url
